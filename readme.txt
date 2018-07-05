@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Creating a new branch is quick AND simple.
 忝加了这一行。
+在远程服务器忝加了这一行。

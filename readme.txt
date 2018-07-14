@@ -4,4 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Creating a new branch is quick AND simple.
 忝加了这一行。
-重回master分支。
+新建了一个new分支.
